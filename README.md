@@ -1,4 +1,3 @@
 # Quiz
-### Quiz with UI (using `Tkinter` as interface)
-The program asking you questions you define in program and will be True/False and check your answer with answer data associated with questions bank
-program have a saparate file for data so you can add or remove more question.
+### Customizable True/False Quiz with Tkinter UI
+This project features a True/False quiz implemented with a user-friendly Tkinter interface. Users can define their own questions within the program, and the system checks their answers against the associated data stored in a separate file. With this setup, users can easily add or remove questions to customize their quiz experience.
